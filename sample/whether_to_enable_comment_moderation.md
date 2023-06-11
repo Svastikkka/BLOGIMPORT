@@ -1,7 +1,0 @@
-# Whether to enable comment moderation
-
-Published: 2019-10-02T09:33:03.204+05:30
-
-Description: ENABLED
-
-Write your content here...
