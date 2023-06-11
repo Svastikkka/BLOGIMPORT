@@ -55,7 +55,6 @@ for entry_element in root.findall(".//{http://www.w3.org/2005/Atom}entry"):
             f.write(f"# {post_title}\n\n")
             f.write(f"Published: {post_published}\n\n")
             f.write(f"Description: {post_description}\n\n")
-            f.write("Write your content here...")
 
         print(f"Markdown file created: {file_path}")
     else:
